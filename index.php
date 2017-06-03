@@ -10,9 +10,6 @@
   </head>
 
   <body>
-    <?php
-    echo "test";
-    ?>
     <p>
       hello, welcome to my personal website!
       <br>
@@ -20,4 +17,11 @@
     </p>
 
   </body>
+
+  <div>
+    <?php
+    echo "test";
+    ?>
+  </div>
+
 </html>
