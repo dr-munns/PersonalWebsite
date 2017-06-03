@@ -1,6 +1,5 @@
 <?php
   function NavBar() {
-    return
-      'WHATCHA';
+    return 'WHATCHA';
   }
  ?>
