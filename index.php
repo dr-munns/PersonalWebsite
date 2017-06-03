@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <?php
   include(nav.php);
+  echo NavBar();
+  echo "hello";
  ?>
 <html>
   <head>
@@ -20,7 +22,7 @@
 
   <div>
     <?php
-    echo NavBar();
+
     ?>
   </div>
 
