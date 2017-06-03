@@ -20,7 +20,7 @@
 
   <div>
     <?php
-    echo "test";
+    echo NavBar();
     ?>
   </div>
 
