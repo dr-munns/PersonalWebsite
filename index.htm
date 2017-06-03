@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+<?php
+  include_once(nav.php);
+ ?>
 <html>
   <head>
     <title>
@@ -12,10 +15,8 @@
       <br>
       This is a work in progress,
     <p>
-    <ul>
-      <li><a href="index.htm">Home</a></li>
-      <li><a href="new.htm">News</a></li>
-      <li><a href="old.htm">Contact</a></li>
-    </ul>
+    <?php
+    echo NavBar();
+    ?>
   </body>
 </html>
