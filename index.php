@@ -13,12 +13,14 @@
       This is a work in progress,
     </p>
 
+    <ul>
+      <li><a href="index.php">Home</a></li>
+      <li><a href="new.php">News/a></li>
+      <li><a href="old.php">Old</a></li>
+    </ul>
+    
   </body>
 
-  <ul>
-    <li><a class="active" href="index.php">Home</a></li>
-    <li><a href="new.php">News/a></li>
-    <li><a href="old.php">Old</a></li>
-  </ul>
+
 
 </html>
