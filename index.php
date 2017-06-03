@@ -15,7 +15,7 @@
 
     <ul>
       <li><a href="index.php">Home</a></li>
-      <li><a href="new.php">News</a></li>
+      <li><a href="new.php">New</a></li>
       <li><a href="old.php">Old</a></li>
     </ul>
 
