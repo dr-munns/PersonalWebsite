@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php
-  include_once(nav.php);
+  include(nav.php);
  ?>
 <html>
   <head>
