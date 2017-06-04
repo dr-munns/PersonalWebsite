@@ -1,7 +1,10 @@
-p {
+body {
     color: black;
     font-family: "Georgia", serif;
     text-align: center;
+}
+img {
+    image-orientation: from-image;
 }
 /*Navigation Bar*/
 ul {
@@ -24,4 +27,21 @@ li a {
 }
 a:hover {
   text-decoration: underline;
+}
+/*maybe use https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-examples */
+div.gallery {
+    border: 1px solid #ccc;
+    float: left;
+    width: 200px;
+    height: 200px;
+
+
+    text-align: center;
+    vertical-align: bottom;
+}
+div.gallery:hover {
+    border: 1px solid #777;
+}
+div.gallery img {
+    height: 100%;
 }
