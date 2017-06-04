@@ -1,9 +1,27 @@
 p {
-    color: red;
+    color: black;
+    font-family: "Georgia", serif;
+    text-align: center;
 }
+/*Navigation Bar*/
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    overflow: hidden;
+    background-color: #666;
 
+}
+li {
+  float: Left;
+}
+li a {
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  color: white;
+}
+a:hover {
+  text-decoration: underline;
 }
