@@ -8,7 +8,7 @@
   font-style: italic;
   src: url(FONT/GentiumPlus-I.woff);
 }
-
+/*could also use https://github.com/rbrito/urw-garamond*/
 body {
     color: black;
     font-family: "GentiumPlusW", Garamond, serif;
